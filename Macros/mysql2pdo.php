@@ -11,8 +11,8 @@ class jhDb {
 	private static $_oLastException = false;
 
 	private static $_sHost = 'localhost';
-	private static $_sUser = 'macros';	// default-user
-	private static $_sPass = 'm3rl1n';	// default-password
+	private static $_sUser = 'user';	// default-user
+	private static $_sPass = 'password';	// default-password
 	private static $_sCharset = 'utf8';
 
 
@@ -153,7 +153,7 @@ if( PHP_MAJOR_VERSION >= 7 ) {
 
 	}
 
-	function mysql_fetch_assoc( &$rRes, $sFetchType = PDO::FETCH_NUM ) {
+	function mysql_fetch_array( &$rRes, $sFetchType = PDO::FETCH_NUM ) {
 
 		if( $aRow = $rRes->fetch($sFetchType) ) {
 			return $aRow;
@@ -249,4 +249,5 @@ if( !function_exists('debug') ) {
 
 	}
 }
+
 ?>
