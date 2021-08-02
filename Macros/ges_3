@@ -1,0 +1,148 @@
+0
+ 
+Ninguno
+true
+1
+DGE
+Se localiza al tit pero no se logra acuerdo
+false
+2
+DPS
+Promesa de pago
+true
+3
+DCO
+Convenio de pago - Acordado por operador
+true
+4
+DXP
+Falta acreditar pago
+true
+5
+DAC
+Aclaración de pago
+true
+6
+DCM
+Se dejo recado con persona
+true
+7
+DFX
+Da tono de FAX
+true
+8
+DNP
+Cliente con negativa de pago
+true
+9
+DCP
+Cliente menciona intenci&oacute;n de portar su l&iacute;nea
+false
+10
+PTO
+Pagado
+true
+11
+FSS
+Telefono fuera de servicio o suspendido
+true
+12
+CS
+Comentario del Supervisor
+true
+13
+SPP
+Seguimiento de Promesa de Pago
+true
+14
+MM
+Marcaci&oacute;n Manual
+true
+15
+P05
+Verificado en 050
+false
+16
+AT
+Atiende Menor 
+true
+17
+CNE
+Colg&oacute; o No Contesta
+false
+18
+JU
+Juridico
+false
+19
+ERR
+Telefono no Existe
+true
+20
+ILO
+Ilocalizable no coinciden datos o linea nueva
+true
+21
+AEP
+Amenaza de extorcion por publicacion
+true
+22
+BZN
+Se dejo recado en buzon
+true
+23
+CC
+Contestan y cuelgan
+true
+24
+CDB
+Celular dado de baja
+true
+25
+FF
+Fallecio firmante
+true
+26
+GD
+Gestion Davox
+true
+27
+NC
+No contestan
+true
+28
+NAC
+No se ha contactado al cliente
+true
+29
+NRA
+No reconoce adeudo
+true
+30
+PP
+Pago parcial
+true
+31
+RDG
+Retiro de gestion
+true
+32
+RP
+Reclamacion en la publicacion
+true
+33
+SDC
+Solicitud de convenio
+true
+34
+SFP
+Solicitud de factura para pago
+true
+35
+SSP
+Seguimiento de promesa de pago
+true
+36
+TER
+Telefono equivocado
+true

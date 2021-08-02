@@ -1,0 +1,92 @@
+0
+ 
+Ninguno
+true
+1
+DGE
+Se localiza al tit pero no se logra acuerdo
+false
+2
+DPS
+Promesa de pago - Gesti&oacute;n de cobro
+true
+3
+DCO
+Convenio de pago - Acordado por operador
+false
+4
+DXP
+Reporta pago por confirmar
+true
+5
+DAC
+Cliente con aclaraci&oacute;n
+true
+6
+DCM
+Tit no est&aacute; - Se deja mensaje con conocido
+true
+7
+DIL
+Tit ya no vive en domicilio
+true
+8
+DFX
+Conecta a FAX o grabadora
+true
+9
+DNP
+Negativa de pago
+true
+10
+DCP
+Cliente menciona intenci&oacute;n de portar su l&iacute;nea
+false
+11
+DIN
+Cuenta incobrable - Solo 9 meses
+false
+12
+DSG
+Suspensi&oacute;n de gesti&oacute;n
+false
+13
+PTO
+Pago Total
+false
+14
+FSS
+Fuera de Servicio
+false
+15
+CS
+Comentario del Supervisor
+true
+16
+SPP
+Seguimiento de Promesa de Pago
+true
+17
+EMAIL
+Correo Electr&oacute;nico
+false
+18
+LLE
+Llamadas de Entrada INBURSA EXTRA
+false
+19
+CF
+Cliente Finado
+true
+20
+INC
+Incumplimiento
+true
+21
+NC
+No contesta
+true
+22
+ILO
+Ilocalizable
+true

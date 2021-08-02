@@ -1,0 +1,1 @@
+alter table vicidial_list add index vendor_lead_code(vendor_lead_code)

@@ -1,0 +1,93 @@
+body, td,div,span,label,input,select{
+	font-size:11px;
+	font-family:arial,tahoma;
+}
+	input{
+		border:1px solid #AAAAAA;
+		width:100%;
+		padding-left:4px;
+	}
+	textarea{
+		border:1px solid #336699;
+		padding-left:4px;
+	}
+	.tdTablas{
+		border:1px solid #336699;		
+	}
+	.Titulos{
+		padding-left:8px;
+	}
+	.Subtitulos{
+		color:#FFFFFF;
+		font-family: tahoma,arial;
+		font-size: 11px;
+		padding-left:4px;
+	}
+	.SubSubtitulo{
+		border:1px solid #008000;
+		color:#000000;
+		font-family: tahoma,arial;
+		font-size: 11px;
+		padding-left:4px;
+		font-weight:bold;
+		height:20px;		
+	}
+	.btnCalificar{
+		border:1px solid #000000;
+		background-color:#A6C4EA;
+		height:30px;
+		font-family: tahoma, arial;
+		font-size:11px;
+		font-weight:bold;
+		width:200px;
+	}
+	.campo{
+		font-weight: bold;
+		text-align:right;
+		width:80px;
+		padding-right:3px;
+	}
+	
+	.campoSimple{
+		font-weight: bold;
+		text-align:right;
+		width:54px;
+		padding-right:3px;
+	}
+	.valor{		
+		padding-left:3px;
+	}
+	.valorSimple{	
+		padding-left:3px;
+		width:75px;	
+	}
+	.campoResult{
+		background-color: #FCFCFC;
+		text-align:right;
+		width:80px;
+		padding-right:3px;
+		color:#800000;
+	}
+	h2{
+		color:#FFFFFF;
+		font-family: tahoma,arial;
+		font-size: 14px;
+		font-weight:bold;	
+	}
+	.blanco{
+		color:#FFFFFF;	
+	}
+	.Separador{
+		height:9px;		
+	}
+
+	.TituloSaldos{
+		color:#FFFFFF;
+		font-weight:bold;
+		padding-left:3px;
+		height:24px;
+	}
+	.GRAYED{
+		color:#AAAAAA;
+	}
+	

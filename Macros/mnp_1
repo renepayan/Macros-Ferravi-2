@@ -1,0 +1,100 @@
+0
+SC
+Ninguno
+true
+1
+NRF
+No recibe factura
+true
+2
+NHC
+No hay cobertura
+true
+3
+MCA
+Mala atención en CAC
+true
+4
+MDI
+Mala información del distribuidor
+true
+5
+SRO
+Suspensión por robo
+true
+6
+TPF
+Término de plazo forzoso
+true
+7
+UIN
+Us no esta de acuerdo con lo facturado
+true
+8
+FEQ
+Equipo en servicio técnico/Falla Equipo
+true
+9
+ECO
+Problemas económicos/Falta de liquidez
+true
+10
+CRE
+Cambio de región
+true
+11
+CCO
+Cambio a la competencia
+true
+12
+FAL
+Fallecimiento
+true
+13
+UVI
+Usuario de viaje
+true
+14
+PRE
+Prestanombres
+true
+15
+CEM
+Cierre empresa
+true
+16
+NSP
+No paga para estar en SP
+true
+17
+UNP
+Negativa de pago
+true
+18
+HCB
+Horarios caja y bancos
+true
+19
+OFT
+Olvido, falta de tiempo
+true
+20
+NOC
+No contactado
+true
+21
+ABU
+Se deja msj (en buzón, con usuario, en no. contacto)
+true
+22
+CP
+Cuenta pagada
+true
+23
+NLE
+Us no recibio equipo/Us no solicito línea
+true
+24
+ILO
+Ilocalizables
+true
